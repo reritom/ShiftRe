@@ -1,4 +1,4 @@
-# ShiftC
+# ShiftRe
 Code for interfacing and configuring any number of daisy-chained 74HC595 shift registers so they can be effectively used as additional ports for microcontrollers.
 
 The 595 is a serial-in parallel-out shift register, more information can be found here https://www.arduino.cc/en/Tutorial/ShiftOut
